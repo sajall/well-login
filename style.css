@@ -13,6 +13,12 @@ body{
   height: 100vh;
  
 }
+
+#side-for {
+  width: 30%;
+  height: 100vh;
+ 
+}
 #Well-logo img {
 
   height: 25px;
